@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc2654e0-4b7a-4f8b-8326-48b45c12b090" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AbstractBodyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AbstractCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AbstractEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AudiBodyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AudiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AudiEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AudiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/BMWBodyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/BMWCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/BMWEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/BMWFactorySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/FordBodyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/FordCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/FordEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/FordFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/AdapterGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/IGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Kost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Monet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter_control_work/ClimateControlSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter_control_work/FahrenheitTemperatureSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter_control_work/FahrenheitToCelsiusAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter_control_work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter_control_work/TemperatureSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/BankPaymentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/MoneyPaymentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/PayPalPaymentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/PaymentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_of_responsibility/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/AddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ArithmeticUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ControlUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/DivCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/MulCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/SubCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/AutoBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/DecoratorOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/MediaNAV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Renault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/SystemSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Drive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/DriveListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Microwave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/NotificationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/PowerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/DrunkTransCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/ShipTransCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/TaxiServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/TaxiTransCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/TransportCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_method/TransportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Lazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/StrategySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/BikeRouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/CarRouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/Navigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/PublicTransportRouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/RouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy_control_work/WalkingRouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/ArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/Progression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method_control_work/HaircutTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method_control_work/LongHaircut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method_control_work/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method_control_work/ShortHaircut.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VaH1HwiMUnnYlGFzWo2Q7bt7z8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/artemshirshov/IdeaProjects/Practice4/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="abstract_factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.Program" />
+      <module name="Practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chain_of_responsibility.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chain_of_responsibility.Program" />
+      <module name="Practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chain_of_responsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="command.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="command.Program" />
+      <module name="Practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="facade.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facade.Program" />
+      <module name="Practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="template_method_control_work.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="template_method_control_work.Program" />
+      <module name="Practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="template_method_control_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.command.Program" />
+        <item itemvalue="Application.chain_of_responsibility.Program" />
+        <item itemvalue="Application.facade.Program" />
+        <item itemvalue="Application.template_method_control_work.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2654e0-4b7a-4f8b-8326-48b45c12b090" name="Changes" comment="" />
+      <created>1695067053249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695067053249</updated>
+      <workItem from="1695067054240" duration="29170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
